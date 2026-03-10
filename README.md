@@ -81,7 +81,7 @@ Custom slash commands wire skills and workflows together:
 - `/worktree` — Create/list/resume/finish git worktree sessions.
 - `/librarian` — Deep exploration of remote repositories.
 - `/index-knowledge` — Generate AGENTS.md knowledge base for a codebase.
-- `/frontend-design`, `/web-animation-design` — Design-focused skill invocations.
+- `/frontend-design`, `/web-animation-design` — Design-focused skill invocations (credit to [Emil Kowalski](https://x.com/emilkowalski) for his amazing design and animations course and SKILL files).
 
 ### Plugins
 
