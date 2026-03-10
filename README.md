@@ -116,16 +116,14 @@ For complex features, I use the PRD skills to go from problem discovery → scop
 
 ### X (Twitter)
 
-People I follow who shape how I think about developer tooling, AI-assisted coding, and software engineering:
-
-- [Dax](https://x.com/thdxr) — co-creator of SST and OpenCode
-- [Dillon Mulroy](https://x.com/dillon_mulroy) — contributor to OpenCode
-- [Mitchell Hashimoto](https://x.com/mitchellh) — creator of Ghostty, co-founder of HashiCorp
-- [Thorsten Ball](https://x.com/thorstenball) — software engineer at Sourcegraph, author of *Writing An Interpreter/Compiler In Go*
-- [Adam Elmore](https://x.com/adamdotdev) — AWS Hero, co-founder of StatMuse, contributor to OpenCode
-- [Quinn Slack](https://x.com/sqs) — CEO of Sourcegraph
+- [Dax](https://x.com/thdxr)
+- [Dillon Mulroy](https://x.com/dillon_mulroy)
+- [Mitchell Hashimoto](https://x.com/mitchellh)
+- [Thorsten Ball](https://x.com/thorstenball)
+- [Adam Elmore](https://x.com/adamdotdev)
+- [Quinn Slack](https://x.com/sqs)
 
 ### YouTube
 
-- [Ben Dicken](https://www.youtube.com/@benjdicken) — programming deep-dives and visualizations
-- [The Pragmatic Engineer](https://www.youtube.com/@pragmaticengineer) — software engineering industry analysis and interviews with builders
+- [Ben Dicken](https://www.youtube.com/@benjdicken)
+- [The Pragmatic Engineer](https://www.youtube.com/@pragmaticengineer)
