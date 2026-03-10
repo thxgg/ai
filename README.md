@@ -100,6 +100,11 @@ For complex features, I use the PRD skills to go from problem discovery → scop
 ## Recommendations
 
 Use TDD when working on bugs.
+Everything is trade-offs. Understand them.
+Focus on system design.
+Index-knowledge your repositories (never use the default `/init`).
+Spend more time exploring the domain.
+A well-structured, clean repository is just as important to LLMs as it is to humans.
 
 ## Resources
 
